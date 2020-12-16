@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ListAPIKey" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;e4cd7e209b5d0acee4ad2371b94b67f3&lt;/string&gt;
+  &lt;string&gt;6058c3956f1884895c18416aceaac7fe&lt;/string&gt;
+  &lt;string&gt;8a70582a5d82890d6719ade5d71333f1&lt;/string&gt;
+  &lt;string&gt;860839ac3cb482aea78f8a47911baa2e&lt;/string&gt;
+  &lt;string&gt;ab31e573fe3652f48f92c6f24eac1224&lt;/string&gt;
+  &lt;string&gt;0017ab74591148c1d9b1235a12f89e06&lt;/string&gt;
+  &lt;string&gt;155a672ebb95ae458724bd3b30fdc357&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
